@@ -1,0 +1,36 @@
+body{
+    background-color: #CD5D5D;
+}
+.yozuv{
+    text-align: center;
+}
+.sariq{
+    color: yellow;
+}
+.logo{
+    font-size: 30px;
+}
+.tel{
+    display: flex;
+    justify-content: space-around;   
+}
+.muha{
+    text-decoration: underline;
+    font-size: 30px;
+    color: #2000E8;
+}
+.uy{
+    width: 250px;
+    height: 400px;
+    background-color: black;
+}
+.uuy{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.p{
+    text-align: center;
+    color: white;
+}
